@@ -1,0 +1,11 @@
+#Message sent to console when command cannot be run by console
+console_error_message: '&8[&c'&8] &cYou are unable to execute this command.'
+
+#No Permission Message
+no_perm_message: '&cYou do not have permission to execute this comman.d'
+
+
+#FlyCommand Below
+FlyCommand:
+  flying_enabled: '&8[&a'&8] &7You have &aenabled &7flying.'
+  flying_disabled: '&8[&c'&8] &7You have &cdisabled &7flying.'
