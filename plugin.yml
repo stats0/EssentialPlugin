@@ -1,0 +1,9 @@
+name: EssentialPlugin
+version: 0.2
+author: stats0
+main: me.stats0.EssentialPlugin.Main
+description: EssentialPlugin has everything you need to start up a successful Minecraft server!
+
+commands:
+  fly:
+  description: This command lets you enable flight for yourself!
